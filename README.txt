@@ -13,5 +13,9 @@ This repository contains the following files:
 4. data.csv
     File containing toxicity data.
 
-5. README.txt
+5. Report.pdf
+    Short report explaining the results.
+    
+6. README.txt
     This file.
+    
